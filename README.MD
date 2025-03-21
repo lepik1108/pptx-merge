@@ -1,7 +1,7 @@
 # Merge pptx
 Enjoy your presentations merging python script, meine freund.
 
-##Prerequisites:
+## Prerequisites:
  - python 3.6+
  - pip
 
